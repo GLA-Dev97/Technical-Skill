@@ -1,6 +1,6 @@
 // given an array of integer A find and written the product of these same size where ith element of the product arraywill be equal to the product of all the element divided by the ith element of the array.
 
-import java.util.Scanner;
+
 public class product_ele_is_equal_to_the_array {
 
     public static void main(String[] args){
